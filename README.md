@@ -10,13 +10,17 @@ on this project are testing a multiple regrassion model there example are below
  - DecisionTreeClassifier Model
  - KNeighborsClassifier Model
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Bug / Feature Request :man_technologist:
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Employee-will-Quit-Your-Company-Machine-Learning/issues/new) by including your search query and the expected result.
 
-Please make sure to update tests as appropriate.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Employee-will-Quit-Your-Company-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
 
-## Follow on a Social Media
-- [LinkedIn](https://bit.ly/2Ky3ho6)
-- [Instagram](https://bit.ly/3b9Qeo4)
-- [Instagram Personal](https://bit.ly/32SXHV0)
-- [Twitter](https://bit.ly/3dbLJLC)
+
+## Connect with me! 🌐
+Known on internet as **Yogesh Nile**
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://bit.ly/2Ky3ho6)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://bit.ly/2yoggit) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="Twitter">](https://bit.ly/3dbLJLC) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" title="Telegram"/>](https://t.me/yogeshnile) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://bit.ly/3b9Qeo4)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram.png" title="Instagram Personal">](https://bit.ly/32SXHV0)
+
+## Email Me :e-mail:
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:yogeshnile.work4u@gmail.com)
